@@ -1,0 +1,4 @@
+/* Secondary stylesheet shared by the static About and Contact pages. */
+:focus-visible { outline: 3px solid #168b83; outline-offset: 3px; }
+a { color: #087f77; }
+img { max-width: 100%; }
