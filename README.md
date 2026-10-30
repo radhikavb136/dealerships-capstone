@@ -1,4 +1,5 @@
-# Dealerships Capstone — Dealership Management & Reviews
+Repository Name - dealerships-capstone
+Project Name - # Dealerships Capstone — Dealership Management & Reviews
 
 A beginner-friendly Django REST-style JSON API and React/Vite website for browsing US dealerships, viewing/submitting customer reviews, registering, signing in, and checking demo sentiment analysis.
 
